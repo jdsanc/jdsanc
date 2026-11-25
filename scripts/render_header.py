@@ -11,7 +11,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parents[1]
 FONT = ROOT / 'assets/fonts/DMSerifDisplay-Regular.ttf'
-TEXT = 'Chemistry meets machine learning.'
+TEXT = 'Jesus Diaz Sanchez'
 SIZE = (1600, 240)
 
 
