@@ -6,4 +6,4 @@
 
 I’m a PhD researcher at MIT, advised by [Rafael Gómez-Bombarelli](https://gomezbombarelli.mit.edu/). I develop machine learning methods for chemistry and materials science, with work in representation learning, AI co-scientists, and VLM/LLM post-training.
 
-[Website](https://jdsanc.github.io/) · [Publications](https://jdsanc.github.io/publications/) · [Learning Matter Lab](https://gomezbombarelli.mit.edu/) · [Email](mailto:jdsan@mit.edu)
+[Website](https://jdsanc.github.io/) · [Hugging Face](https://huggingface.co/jdsan) · [Publications](https://jdsanc.github.io/publications/) · [Learning Matter Lab](https://gomezbombarelli.mit.edu/) · [Email](mailto:jdsan@mit.edu)
